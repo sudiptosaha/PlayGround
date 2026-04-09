@@ -1,2 +1,2 @@
-# playground
-Place to play with GitHub
+# PlayGround
+This repo is for playing with GitHub.
