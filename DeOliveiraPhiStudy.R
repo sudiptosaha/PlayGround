@@ -16,6 +16,8 @@ library(scoringutils)
 library(parallel)
 library(doParallel)
 
+# this is test line 
+
 #load base data
 setwd("~/Documents/FSU/Research/Bayesian Analysis with Truncated Distribution/revised2/new codes/")
 #setwd("/gpfs/home/ss18eo/LargeSimulation_revised_1/")
